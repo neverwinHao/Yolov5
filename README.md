@@ -8,8 +8,8 @@
 
 ## Demo1:detective:
 
-![demo](F:\Users\liu'hao\Desktop\2\Yolov5\img\demo.jpg)
+![demo](https://github.com/neverwinHao/Yolov5/blob/main/img/demo.jpg)
 
 Demo2:deer::
 
-![res](F:\Users\liu'hao\Desktop\2\Yolov5\img\res.png)
+![res](https://github.com/neverwinHao/Yolov5/blob/main/img/res.png)
